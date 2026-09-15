@@ -12,3 +12,10 @@ and then made a quick schematic in KiCad. I used the [Stasis split keyboard guid
 ![KLE Layout](https://cdn.hackclub.com/01a0a393-b002-7e11-a1e7-506ada629b3d/avyortho-1a.png)
 ![KiCad schematic](https://cdn.hackclub.com/01a0a393-b149-7854-8951-907695c19492/avyortho-1b.png)
 **Total time spent: 2h**
+
+# September 15: Laid out PCB and Assigned Footprints
+I assigned footprints and decided to go with hot swappable MX switches using Gateron KS-2P02B01-01 hot swap sockets. I also laid out my design using an extension to parse my keyboard layout editor JSON.
+
+![KiCad PCB](https://cdn.hackclub.com/01a0a3cd-974c-70d6-a8de-82f9b2218419/avyortho-2.png)
+
+**Total time spent: 1h**

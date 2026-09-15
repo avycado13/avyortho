@@ -1359,6 +1359,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(junction
 		(at 170.18 58.42)
@@ -1415,12 +1530,6 @@
 		(uuid "1c8468f8-5250-43d7-94d9-9dff662137dc")
 	)
 	(junction
-		(at 198.12 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "283770d7-f142-4a67-b0cf-992de45c3f3f")
-	)
-	(junction
 		(at 137.16 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1463,6 +1572,12 @@
 		(uuid "3859f8bf-29b0-4646-85b0-0ab9e168980a")
 	)
 	(junction
+		(at 198.12 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e9c43a0-ff68-4c1c-aeac-aa172f99b601")
+	)
+	(junction
 		(at 74.93 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1485,12 +1600,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ad04fb0-6237-4478-836e-24a86fe4c8d6")
-	)
-	(junction
-		(at 181.61 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4aeb4039-a0dc-47aa-8fcb-9218363fcef3")
 	)
 	(junction
 		(at 80.01 58.42)
@@ -1547,6 +1656,12 @@
 		(uuid "5d9d4e06-4cb8-41da-901c-ebf2665cf1eb")
 	)
 	(junction
+		(at 128.27 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e329ecd-9504-4e4d-96b1-df445727225b")
+	)
+	(junction
 		(at 93.98 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1557,12 +1672,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e930baa-4a45-4e92-bf4b-b8c33455924e")
-	)
-	(junction
-		(at 186.69 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "661e4cb4-cc00-4235-9f91-b3b23d4a59fe")
 	)
 	(junction
 		(at 119.38 101.6)
@@ -1697,6 +1806,12 @@
 		(uuid "9873357d-cfa0-4a40-9f01-665f052bd72c")
 	)
 	(junction
+		(at 181.61 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9d70404d-3de2-41ec-8868-9127b895f2ac")
+	)
+	(junction
 		(at 80.01 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1719,12 +1834,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af2de800-8c87-4bba-8284-2592dff901ef")
-	)
-	(junction
-		(at 181.61 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b663cdb0-3184-438d-92fe-d72336fb7a59")
 	)
 	(junction
 		(at 148.59 88.9)
@@ -1817,10 +1926,22 @@
 		(uuid "f0b2a216-886a-437c-9586-f0e501c3941f")
 	)
 	(junction
+		(at 198.12 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0e18e1f-cc81-4ccc-9745-90266ebd940a")
+	)
+	(junction
 		(at 256.54 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4accb3c-e24b-4a0c-994d-d23baa7d4802")
+	)
+	(junction
+		(at 203.2 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9b72fe7-5234-4567-8dbb-37431cd33101")
 	)
 	(junction
 		(at 251.46 45.72)
@@ -1851,22 +1972,16 @@
 		(uuid "68a65486-4d60-4c4f-8e5f-cb9d0d30e7db")
 	)
 	(no_connect
+		(at 128.27 118.11)
+		(uuid "6d1e517e-8351-45fb-a52e-d85b1932d8b2")
+	)
+	(no_connect
 		(at 143.51 167.64)
 		(uuid "a6a0c4c8-d4b0-4667-9e17-fcbd767cf5f2")
 	)
 	(no_connect
 		(at 143.51 124.46)
 		(uuid "ff6a948b-3dca-4c58-990f-80d6fe58fd6a")
-	)
-	(wire
-		(pts
-			(xy 181.61 88.9) (xy 181.61 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "010feaae-99e3-4416-b4af-70c486e357d9")
 	)
 	(wire
 		(pts
@@ -1920,6 +2035,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 184.15) (xy 128.27 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fb5ee2d-2c2f-4934-8eed-8a265bd11b1b")
+	)
+	(wire
+		(pts
 			(xy 222.25 129.54) (xy 224.79 129.54)
 		)
 		(stroke
@@ -1930,7 +2055,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 172.72) (xy 128.27 179.07)
+			(xy 128.27 172.72) (xy 128.27 184.15)
 		)
 		(stroke
 			(width 0)
@@ -2060,6 +2185,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 88.9) (xy 198.12 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "313f1c1a-7441-42d9-9d10-0442368eed24")
+	)
+	(wire
+		(pts
 			(xy 137.16 101.6) (xy 153.67 101.6)
 		)
 		(stroke
@@ -2150,16 +2285,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 67.31) (xy 198.12 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50dfa41f-8f97-4022-85ae-f51b3229d9bf")
-	)
-	(wire
-		(pts
 			(xy 233.68 88.9) (xy 233.68 102.87)
 		)
 		(stroke
@@ -2247,6 +2372,16 @@
 			(type default)
 		)
 		(uuid "697d98a2-2445-44b4-bcb5-12a580ad01c0")
+	)
+	(wire
+		(pts
+			(xy 128.27 184.15) (xy 137.16 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b37768a-c37c-45ce-85ab-3eea32eaf996")
 	)
 	(wire
 		(pts
@@ -2360,13 +2495,13 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 101.6) (xy 186.69 101.6)
+			(xy 181.61 67.31) (xy 181.61 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8a8a0b38-e550-4598-b79d-963912ec0c27")
+		(uuid "882774d1-0f48-4079-b484-e66d08385791")
 	)
 	(wire
 		(pts
@@ -2400,7 +2535,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 101.6) (xy 220.98 101.6)
+			(xy 170.18 101.6) (xy 203.2 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2467,6 +2602,16 @@
 			(type default)
 		)
 		(uuid "9fec7302-b423-4df1-858d-0bebf42a1153")
+	)
+	(wire
+		(pts
+			(xy 203.2 101.6) (xy 220.98 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ff5ff42-1811-45ee-b33f-2e4863d369fe")
 	)
 	(wire
 		(pts
@@ -2880,16 +3025,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 67.31) (xy 181.61 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5758e29-7404-4e12-9106-aa19292adbac")
-	)
-	(wire
-		(pts
 			(xy 148.59 88.9) (xy 148.59 102.87)
 		)
 		(stroke
@@ -2907,6 +3042,16 @@
 			(type default)
 		)
 		(uuid "f763dd29-db05-44cc-a38c-d790cb1b541a")
+	)
+	(wire
+		(pts
+			(xy 198.12 67.31) (xy 198.12 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7affabf-18a9-47ef-9bce-f6db9b8d9f10")
 	)
 	(wire
 		(pts
@@ -3340,7 +3485,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 254 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3422,7 +3567,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 273.05 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3526,7 +3671,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3628,7 +3773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 200.66 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3708,7 +3853,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 77.47 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3790,7 +3935,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 170.18 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3892,7 +4037,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 270.51 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3972,7 +4117,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 184.15 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4022,110 +4167,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 186.69 97.79 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19fb6c1c-d47f-4913-bec4-fd4461ec5cb5")
-		(property "Reference" "D43"
-			(at 189.23 96.5199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 189.23 99.0599 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Diode"
-			(at 186.69 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 186.69 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5ff90376-9c57-402f-9b59-56c947cc36c0")
-		)
-		(pin "2"
-			(uuid "c4bc75c3-e4d1-4a72-bf48-b5704e92ad94")
-		)
-		(instances
-			(project "avyortho"
-				(path "/ce5b6a57-fc75-41b7-a1c8-c403177ec8b3"
-					(reference "D43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 80.01 54.61 90)
 		(unit 1)
 		(body_style 1)
@@ -4158,7 +4199,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4260,7 +4301,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 270.51 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4420,7 +4461,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 256.54 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4522,7 +4563,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 151.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4680,7 +4721,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 270.51 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4762,7 +4803,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 273.05 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4864,7 +4905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4913,86 +4954,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 184.15 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37ad62ff-e562-4cd4-94d8-8d5d52db3b6b")
-		(property "Reference" "SW43"
-			(at 184.15 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 184.15 86.36 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 184.15 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 184.15 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4ee927d8-e66a-4557-886f-a3168c6d5644")
-		)
-		(pin "1"
-			(uuid "bd0513d3-11b7-4153-b116-a427a0a5a35f")
-		)
-		(instances
-			(project "avyortho"
-				(path "/ce5b6a57-fc75-41b7-a1c8-c403177ec8b3"
-					(reference "SW43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 170.18 54.61 90)
 		(unit 1)
@@ -5026,7 +4987,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 170.18 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5130,7 +5091,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5232,7 +5193,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 77.47 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5312,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 116.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5392,7 +5353,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 254 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5472,7 +5433,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 200.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5554,7 +5515,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -5656,7 +5617,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 134.62 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5738,7 +5699,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5840,7 +5801,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 116.84 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5920,7 +5881,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 77.47 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6000,7 +5961,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 254 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6082,7 +6043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6184,7 +6145,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 96.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6266,7 +6227,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6370,7 +6331,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 186.69 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6472,7 +6433,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 167.64 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6554,7 +6515,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 153.67 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6658,7 +6619,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6760,7 +6721,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 236.22 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6842,7 +6803,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6946,7 +6907,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -7048,7 +7009,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 151.13 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7128,7 +7089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7210,7 +7171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 203.2 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7314,7 +7275,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 153.67 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7494,7 +7455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 77.47 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7576,7 +7537,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7680,7 +7641,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 273.05 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7784,7 +7745,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -7886,7 +7847,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 218.44 131.318 90)
 			(hide yes)
 			(show_name no)
@@ -7966,7 +7927,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 200.66 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -8048,7 +8009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 256.54 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8119,6 +8080,110 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D")
+		(at 203.2 97.79 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "89fb671a-866d-429f-bbe6-23fa4c60385f")
+		(property "Reference" "D43"
+			(at 205.74 96.5199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 205.74 99.0599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 203.2 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Diode"
+			(at 203.2 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 203.2 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 203.2 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4385f6f5-c8af-461a-8ca3-6302144a7950")
+		)
+		(pin "2"
+			(uuid "f979ab65-d509-4df5-89da-e21e023209f2")
+		)
+		(instances
+			(project "avyortho"
+				(path "/ce5b6a57-fc75-41b7-a1c8-c403177ec8b3"
+					(reference "D43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Seeed_Studio_XIAO_Series:XIAO-nRF52840_Plus_SMD")
 		(at 128.27 132.08 0)
 		(unit 1)
@@ -8152,7 +8217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Seeed_Studio_XIAO_Series:XIAO-nRF52840-Plus-SMD"
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-nRF52840-Plus-SMD"
 			(at 119.888 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -8315,7 +8380,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 220.98 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -8419,7 +8484,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8523,7 +8588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 186.69 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8625,7 +8690,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 270.51 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8707,7 +8772,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 186.69 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8779,7 +8844,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 128.27 179.07 0)
+		(at 128.27 187.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8790,7 +8855,7 @@
 		(fields_autoplaced yes)
 		(uuid "95ea8369-5992-4813-af07-4418be9b71b2")
 		(property "Reference" "#PWR01"
-			(at 128.27 185.42 0)
+			(at 128.27 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8801,7 +8866,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 184.15 0)
+			(at 128.27 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8811,7 +8876,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 179.07 0)
+			(at 128.27 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8822,7 +8887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 179.07 0)
+			(at 128.27 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8833,7 +8898,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.27 179.07 0)
+			(at 128.27 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8887,7 +8952,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 189.23 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8964,7 +9029,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 218.44 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9044,7 +9109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 236.22 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9094,6 +9159,86 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
+		(at 200.66 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a231489c-ce62-4a58-b5cd-5300bef68afc")
+		(property "Reference" "SW43"
+			(at 200.66 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_45deg"
+			(at 200.66 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+			(at 200.66 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 200.66 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0a83282c-5018-42b3-9bba-9662aa594fe4")
+		)
+		(pin "1"
+			(uuid "329471d9-b659-41ea-842a-3e9c6eed39c4")
+		)
+		(instances
+			(project "avyortho"
+				(path "/ce5b6a57-fc75-41b7-a1c8-c403177ec8b3"
+					(reference "SW43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push_45deg")
 		(at 254 48.26 0)
 		(unit 1)
 		(body_style 1)
@@ -9124,7 +9269,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 254 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9206,7 +9351,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9310,7 +9455,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 170.18 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -9414,7 +9559,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 220.98 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9518,7 +9663,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 256.54 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -9622,7 +9767,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 220.98 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9724,7 +9869,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 151.13 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -9806,7 +9951,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 203.2 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9877,6 +10022,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 137.16 184.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9794162-5b51-4c42-b1b7-605ff958ad31")
+		(property "Reference" "#FLG01"
+			(at 137.16 182.245 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 137.16 179.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 137.16 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b4e0a65e-3cba-4122-b0f3-6f2f42f16164")
+		)
+		(instances
+			(project "avyortho"
+				(path "/ce5b6a57-fc75-41b7-a1c8-c403177ec8b3"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 167.64 26.67 0)
 		(unit 1)
@@ -9908,7 +10131,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 167.64 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -9990,7 +10213,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10092,7 +10315,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 134.62 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10172,7 +10395,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 134.62 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10254,7 +10477,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 256.54 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10358,7 +10581,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10460,7 +10683,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 236.22 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10542,7 +10765,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 153.67 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10644,7 +10867,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 116.84 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10726,7 +10949,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 203.2 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10828,7 +11051,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D3.0mm"
 			(at 189.23 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10862,7 +11085,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4f9923a3-43b1-4f62-9aea-1486733d401e")
+			(uuid "4f9923a3-43b1-4f62-9aea-1486733d401f")
 		)
 		(instances
 			(project "avyortho"
@@ -10905,7 +11128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 96.52 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10985,7 +11208,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 218.44 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11065,7 +11288,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 218.44 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11147,7 +11370,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 273.05 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11249,7 +11472,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 134.62 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11329,7 +11552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 116.84 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11409,7 +11632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 167.64 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11489,7 +11712,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 232.41 131.318 90)
 			(hide yes)
 			(show_name no)
@@ -11523,10 +11746,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e055531a-a4dd-4964-88c2-08ccdc711d95")
+			(uuid "e055531a-a4dd-4964-88c2-08ccdc711d96")
 		)
 		(pin "1"
-			(uuid "2859643f-19d4-438a-a55e-04339d19fd9e")
+			(uuid "2859643f-19d4-438a-a55e-04339d19fd9f")
 		)
 		(instances
 			(project "avyortho"
@@ -11569,7 +11792,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11651,7 +11874,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 170.18 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11755,7 +11978,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 137.16 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11857,7 +12080,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 184.15 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11939,7 +12162,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 153.67 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12043,7 +12266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 80.01 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -12147,7 +12370,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 119.38 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -12251,7 +12474,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12355,7 +12578,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 220.98 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12457,7 +12680,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 236.22 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12615,7 +12838,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12695,7 +12918,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 218.44 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12775,7 +12998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
 			(at 96.52 48.26 0)
 			(hide yes)
 			(show_name no)
