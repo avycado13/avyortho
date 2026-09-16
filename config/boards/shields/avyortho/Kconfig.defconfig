@@ -1,0 +1,13 @@
+if SHIELD_AVYORTHO
+
+# Name must be less than 16 characters long!
+config ZMK_KEYBOARD_NAME
+    default "avyortho"
+
+endif
+
+# SHIELD_AVYORTHO uses NFC pins (P0.09/P0.10) on nRF52840 as GPIO
+if SHIELD_AVYORTHO
+config NFCT_PINS_AS_GPIOS
+    default y
+endif
