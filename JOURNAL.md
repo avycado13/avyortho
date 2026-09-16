@@ -19,3 +19,10 @@ I assigned footprints and decided to go with hot swappable MX switches using Gat
 ![KiCad PCB](https://cdn.hackclub.com/01a0a3cd-974c-70d6-a8de-82f9b2218419/avyortho-2.png)
 
 **Total time spent: 1h**
+
+# September 15: Routed PCB + Added Silkscreen
+I routed the PCB and added some really cool silkscreen art to it to make it look cool! I added an Orpheus using a yoyo from [dinosaurs](https://rawr.hackclub.com/) (thanks Arslaan!) and a Neocat.
+
+**Total time spent: 1h**
+![Routed PCB](https://cdn.hackclub.com/01a0a7b5-c42a-7a9b-b89f-9c23be1c408a/avyortho-3a.png)
+![3D View of PCB with silkscreen](https://cdn.hackclub.com/01a0a7b5-c55d-7a6e-92d7-744f91b04ec2/avyortho-3b.png)
