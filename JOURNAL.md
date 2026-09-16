@@ -26,3 +26,9 @@ I routed the PCB and added some really cool silkscreen art to it to make it look
 **Total time spent: 1h**
 ![Routed PCB](https://cdn.hackclub.com/01a0a7b5-c42a-7a9b-b89f-9c23be1c408a/avyortho-3a.png)
 ![3D View of PCB with silkscreen](https://cdn.hackclub.com/01a0a7b5-c55d-7a6e-92d7-744f91b04ec2/avyortho-3b.png)
+
+# September 16: CADed Case
+I made a case that is about 240 mm long and added a plate. onshape kinda sucks because of constraints, but I guess I made it work.
+
+**Total time spent: 1h**
+![CAD of case](https://cdn.hackclub.com/01a0ac86-9aba-7f96-a21d-458dd03c107e/avyortho-4.png)
