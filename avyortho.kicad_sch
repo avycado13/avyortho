@@ -3485,7 +3485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 254 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3508,6 +3508,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 254 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 254 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3622,6 +3633,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 273.05 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "20941d01-c52e-47b7-82af-079906a8e6b1")
 		)
@@ -3726,6 +3748,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 99.06 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f8aa9c2c-cab2-43e4-913e-12c94316a7da")
 		)
@@ -3773,7 +3806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 200.66 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3796,6 +3829,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 200.66 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 200.66 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3853,7 +3897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 77.47 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3876,6 +3920,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 77.47 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 77.47 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3990,6 +4045,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 170.18 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b18f6430-fb57-434f-a59a-1a074d1b7a8f")
 		)
@@ -4037,7 +4103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 270.51 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4060,6 +4126,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 270.51 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 270.51 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4117,7 +4194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 184.15 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4140,6 +4217,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 184.15 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 184.15 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4254,6 +4342,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 80.01 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f269cc8-51f7-402b-bac8-9a86ba0271a3")
 		)
@@ -4301,7 +4400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 270.51 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4324,6 +4423,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 270.51 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 270.51 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4516,6 +4626,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 256.54 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7ee0ed01-9220-448c-9ba9-d16bd731bdd6")
 		)
@@ -4563,7 +4684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4586,6 +4707,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 151.13 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 151.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4721,7 +4853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 270.51 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4744,6 +4876,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 270.51 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 270.51 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4858,6 +5001,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 273.05 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c97e1b7a-6ab4-404d-aa5d-385f84357d6d")
 		)
@@ -4905,7 +5059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4928,6 +5082,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 184.15 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5042,6 +5207,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 170.18 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "88ffb42c-75b0-40fc-8921-d3b4d286b2cc")
 		)
@@ -5146,6 +5322,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 137.16 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e0c1966e-5bdc-4271-925d-58fde1447fba")
 		)
@@ -5193,7 +5380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 77.47 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5216,6 +5403,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 77.47 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 77.47 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5273,7 +5471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 116.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5296,6 +5494,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 116.84 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 116.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5353,7 +5562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 254 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5376,6 +5585,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 254 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 254 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5433,7 +5653,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 200.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5456,6 +5676,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 200.66 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 200.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5570,6 +5801,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 119.38 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "54a75477-b141-40da-8898-3ad8c6aab64e")
 		)
@@ -5617,7 +5859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5640,6 +5882,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 134.62 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 134.62 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5754,6 +6007,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 99.06 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2fcf449-480a-4852-9c63-4b46a104444b")
 		)
@@ -5801,7 +6065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 116.84 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5824,6 +6088,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 116.84 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 116.84 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5881,7 +6156,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 77.47 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5904,6 +6179,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 77.47 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 77.47 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5961,7 +6247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 254 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5984,6 +6270,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 254 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 254 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6098,6 +6395,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 238.76 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c70ddf5a-9bfb-4bda-b643-09b61325fb51")
 		)
@@ -6145,7 +6453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 96.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6168,6 +6476,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 96.52 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 96.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6282,6 +6601,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 80.01 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05f29627-f275-4aa1-9879-9b352f618fb1")
 		)
@@ -6386,6 +6716,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 186.69 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "abd98ab2-93db-4ab3-99cc-2d6aa28cfcc7")
 		)
@@ -6433,7 +6774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6456,6 +6797,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 167.64 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 167.64 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6570,6 +6922,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 153.67 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5aa8055-28f4-4f1a-a91a-e2ce69cc5c56")
 		)
@@ -6674,6 +7037,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 137.16 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2949b7db-a58e-45a6-a02a-c3730c910607")
 		)
@@ -6721,7 +7095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 236.22 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6744,6 +7118,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 236.22 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6858,6 +7243,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 137.16 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "72e723e8-ca71-4741-adfd-47025ac0d712")
 		)
@@ -6962,6 +7358,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 80.01 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "959f87bf-0d24-4b87-a5d8-6f84e617e5c8")
 		)
@@ -7009,7 +7416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7032,6 +7439,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 151.13 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 151.13 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7089,7 +7507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7112,6 +7530,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 96.52 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7226,6 +7655,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 203.2 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d1c17ce2-a62a-4106-b106-4d375beb5d07")
 		)
@@ -7321,6 +7761,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 153.67 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 153.67 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7455,7 +7906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 77.47 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7478,6 +7929,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 77.47 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 77.47 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7592,6 +8054,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 119.38 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d9fc65f9-1dc1-48f9-9c98-911f754e27f5")
 		)
@@ -7687,6 +8160,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 273.05 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 273.05 54.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7800,6 +8284,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 99.06 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dfe6419e-525d-4a04-bd28-461ae777f522")
 		)
@@ -7880,6 +8375,17 @@
 				)
 			)
 		)
+		(property "MPN" "CRCW0805806KFKEA"
+			(at 218.44 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e055531a-a4dd-4964-88c2-08ccdc711d95")
 		)
@@ -7927,7 +8433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 200.66 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7950,6 +8456,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 200.66 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 200.66 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -8064,6 +8581,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 256.54 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a8defcb7-479a-47c8-9891-1e82d90647bc")
 		)
@@ -8168,6 +8696,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 203.2 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4385f6f5-c8af-461a-8ca3-6302144a7950")
 		)
@@ -8240,6 +8779,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 128.27 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "102010672"
 			(at 128.27 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -8435,6 +8985,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 220.98 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d14d90bb-e246-4306-9090-1a67013d6686")
 		)
@@ -8530,6 +9091,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 238.76 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 238.76 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8643,6 +9215,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 186.69 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "314d9738-1f77-4b29-b8a9-2a7070377b2b")
 		)
@@ -8690,7 +9273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 270.51 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8713,6 +9296,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 270.51 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 270.51 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8818,6 +9412,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 186.69 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 186.69 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8985,6 +9590,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 189.23 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f9923a3-43b1-4f62-9aea-1486733d401e")
 		)
@@ -9029,7 +9645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 218.44 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9052,6 +9668,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 218.44 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 218.44 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9109,7 +9736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 236.22 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9132,6 +9759,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 236.22 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9189,7 +9827,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 200.66 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9212,6 +9850,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 200.66 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 200.66 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9269,7 +9918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 254 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9292,6 +9941,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 254 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 254 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9406,6 +10066,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 119.38 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9f05cdce-c913-498e-9d58-88277b2106cf")
 		)
@@ -9501,6 +10172,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 170.18 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 170.18 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9614,6 +10296,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 220.98 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ea903576-136c-4220-a910-a900027c83ca")
 		)
@@ -9709,6 +10402,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 256.54 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 256.54 54.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9822,6 +10526,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 220.98 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2760225e-eb17-47cf-ae3c-bcc31eda9a49")
 		)
@@ -9869,7 +10584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -9892,6 +10607,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 151.13 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 151.13 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -9997,6 +10723,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 203.2 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10131,7 +10868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10154,6 +10891,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 167.64 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 167.64 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10268,6 +11016,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 238.76 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "588c8687-dbb9-46ad-9d53-7da9f80ed4c1")
 		)
@@ -10315,7 +11074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10338,6 +11097,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 134.62 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 134.62 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10395,7 +11165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10418,6 +11188,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 134.62 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 134.62 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10532,6 +11313,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 256.54 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e153aff6-53c4-4ad3-9136-2d4d5a4309ad")
 		)
@@ -10636,6 +11428,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 99.06 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e09ab69a-aef7-4114-b742-58852ee01e28")
 		)
@@ -10683,7 +11486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 236.22 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10706,6 +11509,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 236.22 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10820,6 +11634,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 153.67 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7292628f-c628-4b10-b7f4-9005ffa3ae78")
 		)
@@ -10867,7 +11692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 116.84 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10890,6 +11715,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 116.84 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 116.84 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11004,6 +11840,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 203.2 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c933701c-cc55-4a49-8224-dd4b31aaa0f6")
 		)
@@ -11084,6 +11931,17 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 189.23 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f9923a3-43b1-4f62-9aea-1486733d401f")
 		)
@@ -11128,7 +11986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 96.52 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11151,6 +12009,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 96.52 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 96.52 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11208,7 +12077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 218.44 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11231,6 +12100,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 218.44 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 218.44 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11288,7 +12168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 218.44 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11311,6 +12191,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 218.44 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 218.44 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -11425,6 +12316,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 273.05 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "68694356-db31-4981-b739-023e318a0293")
 		)
@@ -11472,7 +12374,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 134.62 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11495,6 +12397,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 134.62 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 134.62 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -11552,7 +12465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 116.84 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11575,6 +12488,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 116.84 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 116.84 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11632,7 +12556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11655,6 +12579,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 167.64 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 167.64 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11745,6 +12680,17 @@
 				)
 			)
 		)
+		(property "MPN" "CRCW08052M00FKED"
+			(at 232.41 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e055531a-a4dd-4964-88c2-08ccdc711d96")
 		)
@@ -11792,7 +12738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11815,6 +12761,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 151.13 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11929,6 +12886,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 170.18 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6b3d2e16-d06f-4ac8-936a-ede5eab731f6")
 		)
@@ -12033,6 +13001,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 137.16 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1dd31dab-ca30-4c23-b50a-64c2241ba6e9")
 		)
@@ -12080,7 +13059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 184.15 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12103,6 +13082,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 184.15 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 184.15 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12217,6 +13207,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 153.67 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "01c6b1fd-9120-4094-aba0-d34094b00edc")
 		)
@@ -12312,6 +13313,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 80.01 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 80.01 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12425,6 +13437,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 119.38 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3874f57c-d05a-4029-99cc-79681beec175")
 		)
@@ -12520,6 +13543,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 238.76 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1N5819"
+			(at 238.76 54.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12633,6 +13667,17 @@
 				)
 			)
 		)
+		(property "MPN" "1N5819"
+			(at 220.98 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d2054919-434f-47e9-ac3a-c395d4ad574f")
 		)
@@ -12680,7 +13725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 236.22 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12703,6 +13748,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 236.22 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 236.22 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12838,7 +13894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12861,6 +13917,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 167.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12918,7 +13985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 218.44 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12941,6 +14008,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 218.44 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 218.44 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12998,7 +14076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
+		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
 			(at 96.52 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -13021,6 +14099,17 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 96.52 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CPG151101S11-16"
 			(at 96.52 48.26 0)
 			(hide yes)
 			(show_name no)
