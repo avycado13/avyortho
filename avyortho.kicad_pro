@@ -536,7 +536,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "bom/bom.csv",
+    "bom_export_filename": "production/bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -635,7 +635,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "${QUANTITY}"
+      "sort_field": "${EXCLUDE_FROM_BOM}"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -644,7 +644,13 @@
       "dashed_lines_gap_length_ratio": 3.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
-      "field_names": [],
+      "field_names": [
+        {
+          "name": "MPN",
+          "url": false,
+          "visible": true
+        }
+      ],
       "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
@@ -679,7 +685,11 @@
       }
     ],
     "used_designators": "#FLG1-2,R1-3,TP1-3,U1-4,#PWR1-9,D1-48,SW1-48",
-    "variants": []
+    "variants": [
+      {
+        "name": "gateron"
+      }
+    ]
   },
   "sheets": [
     [

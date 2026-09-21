@@ -3496,7 +3496,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 254 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3589,7 +3589,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 273.05 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3633,7 +3633,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 273.05 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -3704,7 +3704,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 99.06 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3748,7 +3748,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 99.06 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -3817,7 +3817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 200.66 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -3908,7 +3908,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 77.47 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4001,7 +4001,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 170.18 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4045,7 +4045,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 170.18 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -4114,7 +4114,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 270.51 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -4205,7 +4205,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 184.15 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4298,7 +4298,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 80.01 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4342,7 +4342,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 80.01 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -4411,7 +4411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 270.51 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4582,7 +4582,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 256.54 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4626,7 +4626,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 256.54 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -4695,7 +4695,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 151.13 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4864,7 +4864,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 270.51 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -4957,7 +4957,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 273.05 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5001,7 +5001,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 273.05 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -5070,7 +5070,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5163,7 +5163,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 170.18 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5207,7 +5207,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 170.18 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -5278,7 +5278,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 137.16 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5322,7 +5322,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 137.16 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -5391,7 +5391,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 77.47 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5482,7 +5482,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 116.84 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5573,7 +5573,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 254 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -5664,7 +5664,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 200.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -5757,7 +5757,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 119.38 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -5801,7 +5801,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 119.38 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -5870,7 +5870,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 134.62 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5963,7 +5963,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 99.06 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6007,7 +6007,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 99.06 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -6076,7 +6076,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 116.84 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6167,7 +6167,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 77.47 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -6258,7 +6258,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 254 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6351,7 +6351,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 238.76 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -6395,7 +6395,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 238.76 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -6464,7 +6464,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 96.52 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6557,7 +6557,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 80.01 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6601,7 +6601,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 80.01 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -6672,7 +6672,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 186.69 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6716,7 +6716,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 186.69 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -6785,7 +6785,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 167.64 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6878,7 +6878,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 153.67 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -6922,7 +6922,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 153.67 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -6993,7 +6993,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 137.16 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7037,7 +7037,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 137.16 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -7106,7 +7106,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 236.22 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7199,7 +7199,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 137.16 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7243,7 +7243,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 137.16 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -7314,7 +7314,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 80.01 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -7358,7 +7358,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 80.01 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -7427,7 +7427,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 151.13 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7518,7 +7518,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -7611,7 +7611,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 203.2 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -7655,7 +7655,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 203.2 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -7726,7 +7726,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 153.67 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7770,7 +7770,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 153.67 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -7917,7 +7917,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 77.47 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8010,7 +8010,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 119.38 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8054,7 +8054,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 119.38 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -8125,7 +8125,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 273.05 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8169,7 +8169,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 273.05 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -8240,7 +8240,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 99.06 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -8284,7 +8284,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 99.06 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -8444,7 +8444,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 200.66 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -8537,7 +8537,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 256.54 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8581,7 +8581,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 256.54 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -8652,7 +8652,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 203.2 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -8696,7 +8696,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 203.2 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -8941,7 +8941,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 220.98 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -8985,7 +8985,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 220.98 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -9056,7 +9056,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 238.76 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9100,7 +9100,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 238.76 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -9171,7 +9171,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 186.69 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -9215,7 +9215,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 186.69 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -9284,7 +9284,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 270.51 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -9377,7 +9377,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 186.69 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9421,7 +9421,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 186.69 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -9531,7 +9531,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9656,7 +9656,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 218.44 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9747,7 +9747,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 236.22 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9838,7 +9838,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 200.66 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9929,7 +9929,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 254 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10022,7 +10022,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 119.38 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10066,7 +10066,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 119.38 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -10137,7 +10137,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 170.18 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -10181,7 +10181,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 170.18 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -10252,7 +10252,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 220.98 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -10296,7 +10296,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 220.98 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -10367,7 +10367,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 256.54 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10411,7 +10411,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 256.54 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -10482,7 +10482,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 220.98 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -10526,7 +10526,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 220.98 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -10595,7 +10595,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 151.13 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10688,7 +10688,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 203.2 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -10732,7 +10732,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 203.2 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -10879,7 +10879,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 167.64 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -10972,7 +10972,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 238.76 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11016,7 +11016,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 238.76 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -11085,7 +11085,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 134.62 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11176,7 +11176,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 134.62 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11269,7 +11269,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 256.54 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -11313,7 +11313,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 256.54 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -11384,7 +11384,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 99.06 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -11428,7 +11428,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 99.06 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -11497,7 +11497,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 236.22 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11590,7 +11590,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 153.67 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -11634,7 +11634,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 153.67 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -11703,7 +11703,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 116.84 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -11796,7 +11796,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 203.2 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11840,7 +11840,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 203.2 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -11872,7 +11872,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11997,7 +11997,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 96.52 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12088,7 +12088,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 218.44 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12179,7 +12179,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 218.44 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12272,7 +12272,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 273.05 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -12316,7 +12316,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 273.05 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -12385,7 +12385,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 134.62 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12476,7 +12476,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 116.84 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12567,7 +12567,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 167.64 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -12749,7 +12749,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 151.13 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -12842,7 +12842,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 170.18 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -12886,7 +12886,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 170.18 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -12957,7 +12957,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 137.16 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -13001,7 +13001,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 137.16 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -13070,7 +13070,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 184.15 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -13163,7 +13163,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 153.67 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13207,7 +13207,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 153.67 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -13278,7 +13278,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 80.01 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -13322,7 +13322,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 80.01 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -13393,7 +13393,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 119.38 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -13437,7 +13437,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 119.38 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -13508,7 +13508,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 238.76 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13552,7 +13552,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 238.76 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -13623,7 +13623,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://diotec.com/request/datasheet/1n4148w.pdf"
 			(at 220.98 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13667,7 +13667,7 @@
 				)
 			)
 		)
-		(property "MPN" "1N5819"
+		(property "MPN" "1N4148W"
 			(at 220.98 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -13736,7 +13736,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 236.22 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -13905,7 +13905,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 167.64 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -13996,7 +13996,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 218.44 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -14087,7 +14087,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41430893.pdf"
 			(at 96.52 48.26 0)
 			(hide yes)
 			(show_name no)
