@@ -32,3 +32,8 @@ I made a case that is about 240 mm long and added a plate. onshape kinda sucks b
 
 **Total time spent: 1h**
 ![CAD of case](https://cdn.hackclub.com/01a0ac86-9aba-7f96-a21d-458dd03c107e/avyortho-4.png)
+
+# September 20: Add BOMs and Do README
+I made the BOM in Octopart and wrote the README. I uploaded the gerbers to JLC and all together the the price of it was 45 bucks excluding switches.
+
+![Octopart](https://cdn.hackclub.com/01a0c59d-ee5b-7ccf-a448-f41abf732342/avyortho-5.png)
