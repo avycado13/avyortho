@@ -9,17 +9,19 @@ I wanted to make a nice keyboard and I wanted one that could be small and easy t
 
 ## Bill of Materials
 
-Components on the PCB (full BOM in [`production/bom.csv`](production/bom.csv)):
+PCB components (designators and footprints in [`production/bom.csv`](production/bom.csv)). Prices below are USD snapshots from the selected offers in [`ordering/`](ordering/), **not live quotes**; check price, stock, shipping, and tax before ordering.
 
-| Part | Designators | Qty | Value / Part # | Footprint | Source |
-|------|-------------|-----|----------------|-----------|--------|
-| Diodes | D1-D48 | 47 | 1N4148W (SMD) | D_SOD-123 | [LCSC C241939](https://lcsc.com/product-detail/C241939.html) |
-| Resistor | R1 | 1 | 806kΩ | 0805 | CRCW0805806KFKEA |
-| Resistor | R2 | 1 | 2MΩ | 0805 | CRCW08052M00FKED |
-| MX hotswap sockets | SW1-SW48 | 47 | CPG151101S11-16 (Kailh) | SW_MX_HS | [Adafruit 4958](https://www.adafruit.com/product/4958) |
-| MCU | U3 | 1 | Seeed XIAO nRF52840 Plus | XIAO-nRF52840-Plus | [Mouser 713-102010672](https://www.mouser.com/ProductDetail/713-102010672) |
+| Part | Qty on PCB | Order qty | Part / supplier link | Unit price | Order cost |
+|------|-----------:|----------:|----------------------|-----------:|-----------:|
+| 1N4148W SMD diodes (D1–D48, except D44) | 47 | 50 | [LCSC C241939](https://lcsc.com/product-detail/C241939.html) | $0.037 | $1.85 |
+| 806 kΩ 0805 resistor (R1) | 1 | 1 | [Vishay CRCW0805806KFKEA — Mouser 71-CRCW0805-806K-E3](https://www.mouser.com/ProductDetail/71-CRCW0805-806K-E3) | $0.10 | $0.10 |
+| 2 MΩ 0805 resistor (R2) | 1 | 1 | [TE CPF0805B2M0E — Mouser 279-CPF0805B2M0E](https://www.mouser.com/ProductDetail/279-CPF0805B2M0E) | $0.25 | $0.25 |
+| Kailh MX hotswap sockets (SW1–SW48, except SW44) | 47 | 3 × 20-pack | [Adafruit 4958](https://www.adafruit.com/product/4958) ([Mouser 485-4958](https://www.mouser.com/ProductDetail/485-4958)) | $4.95 / pack | $14.85 |
+| Seeed XIAO nRF52840 Plus (U3) | 1 | 1 | [Mouser 713-102010672](https://www.mouser.com/ProductDetail/713-102010672) | $10.40 | $10.40 |
+| **PCB component total** | | | | | **$27.45** |
 
-Also these parts for the actual build
-- 47x MX switches (any 1u, hot swappable)
-- 47x keycaps (1u)
-- Case + plate (see [`cad/`](cad/))
+R2's selected offer is an alternative to the BOM's CRCW08052M00FKED (same 2 MΩ value and 0805 size); confirm specifications before substituting. The sockets are priced per **20-pack**, not individually. The total excludes shipping, tax, PCB fabrication, and the following build-dependent items (no specific product or price selected):
+
+- 47 × MX-compatible switches — choose a compatible switch and check its current price.
+- 47 × 1u MX-compatible keycaps — choose a set and check its current price.
+- Case and plate — see the [case CAD](cad/body.step) and [plate CAD](cad/plate.step) for fabrication; cost depends on material and manufacturer.
