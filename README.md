@@ -6,7 +6,10 @@ A basic 40% ortholinear keyboard that uses vim keys for arrows
 
 I wanted to make a nice keyboard and I wanted one that could be small and easy to carry in my backpack. I decided on an ortholinear because I figured they would be a lot easier to build and route because the keys aren't spaced weirdly. I decided to use ZMK for my firmware because there are nice tools to let you export your JSON from keyboard layout editor and turn it into firmware for ZMK. I used a Seeed Studios XIAO nRF52840 Plus for the microcontroller because it had enough GPIO pins and because it could do batteries without external devices needed
 
- I chose to go with a minimal 4x12 setup so I could fit it in my bag and to make it cooler. I will probably do keys like function keys with a layer and a modifier key for other functionality. In my next keyboard, I might consider adding RGB lights with something like a sk6812-mini. I will probably mainly use this keyboard on the go and then build a bigger keyboard as my home keyboard.
+I chose to go with a minimal 4x12 setup so I could fit it in my bag and to make it cooler. I will probably do keys like function keys with a layer and a modifier key for other functionality. In my next keyboard, I might consider adding RGB lights with something like a sk6812-mini. I will probably mainly use this keyboard on the go and then build a bigger keyboard as my home keyboard.
+
+## Firmware
+I used ZMK and made the config using [ZMK Shield Wizard](https://shield-wizard.genteure.com/). It is built with GitHub Actions on every commit.
 
 ## Bill of Materials
 
