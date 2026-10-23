@@ -43,3 +43,4 @@ I made the BOM in Octopart and wrote the README. I uploaded the gerbers to JLC a
 I fixed the BOMs to have links and proper prices for parts, I used AI to turn my links and prices into a table.
 
 **Total time spent: 30m**
+![BOM in README](https://cdn.hackclub.com/01a1670b-c975-7e01-bd6b-408e0ad4e3d2/avyortho-6.png)
